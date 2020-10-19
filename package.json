@@ -119,7 +119,7 @@
       ]
     }
   },
-  "eslintIgnore": ["node_modules/", "lib/"],
+  "eslintIgnore": ["node_modules/", "lib/", "example/ios/Pods"],
   "prettier": {
     "quoteProps": "consistent",
     "singleQuote": true,
